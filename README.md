@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-nightwatch-tools
 
 This module supplies Nightwatch custom commands and executable test steps which are useful when working with [apostrophecms](https://apostrophecms.org).
